@@ -16,4 +16,3 @@ The cut point h, Max(Corr(x_d (h),y)) and and the results from Gaussian mixture 
 <https://www.dropbox.com/s/yn6137g3jbbiiy1/dicho_cor_xy.txt>  
 The flowcharts of the algorithms are shown as followed.  
 
-![dicho](https://www.dropbox.com/s/m4ge78nvyjivw1w/dicho.png?dl=0)
