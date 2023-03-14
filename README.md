@@ -22,4 +22,4 @@ The three data sets used in the paper is available through:
 [Data 3. Height and Weight](https://www.dropbox.com/s/kipgp1hmigorqdx/weight_height.csv)  
 [Data 4 Insurance charge](https://data.world/bob-wakefield/insurance)  
 
-![image](https://github.com/iblian/dicho_cor/blob/main/image.png)
+![image](https://github.com/iblian/dicho_cor/blob/main/Image.png)
