@@ -17,9 +17,9 @@ The cut point h, Max(Corr(x_d (h),y)) and and the results from Gaussian mixture 
 The flowcharts of the algorithms are shown as followed.  
 
 The three data sets used in the paper is available through:  
-[Data 1 HbA1c vs glucose](https://www.dropbox.com/s/rz4hg2q9zy3kk40/data1.csv?dl=0)  
+[Data 1. HbA1c vs glucose](https://www.dropbox.com/s/rz4hg2q9zy3kk40/data1.csv?dl=0)  
 [Data 2. 921 earthquake](https://www.dropbox.com/s/z7dud1o5f35zl9z/921report2.htm)  
 [Data 3. Height and Weight](https://www.dropbox.com/s/kipgp1hmigorqdx/weight_height.csv)  
-[Data 4 Insurance charge](https://data.world/bob-wakefield/insurance)  
+[Data 4. Insurance charge](https://data.world/bob-wakefield/insurance)  
 
 ![image](https://github.com/iblian/dicho_cor/blob/main/Image.png)
